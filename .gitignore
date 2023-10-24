@@ -4,4 +4,4 @@ logs
 *.swp
 *.cache
 build
-.idea
+/.idea
