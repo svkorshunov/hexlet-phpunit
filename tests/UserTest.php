@@ -1,9 +1,9 @@
 <?php
 
-namespace Php\Package\Tests;
+namespace Hexlet\Phpunit\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Php\Package\User;
+use Hexlet\Phpunit\User;
 
 class UserTest extends TestCase
 {

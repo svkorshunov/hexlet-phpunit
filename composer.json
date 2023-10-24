@@ -15,9 +15,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Php\\Package\\": "src",
-      "Php\\Package\\Tests\\": "tests"
-    }
+      "Hexlet\\Phpunit\\": "src",
+      "Hexlet\\Phpunit\\Tests\\": "tests"
+    },
+    "files": [
+      "src/Utils.php"
+    ]
   },
   "require": {
     "tightenco/collect": "^9.33",

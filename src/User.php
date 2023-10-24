@@ -1,6 +1,6 @@
 <?php
 
-namespace Php\Package;
+namespace Hexlet\Phpunit;
 
 use Tightenco\Collect\Support\Collection;
 
